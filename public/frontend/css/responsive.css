@@ -1,0 +1,28 @@
+@media (min-width: 992px) {
+.job-search-form .row .col-lg-1 {
+  flex: 0 0 100%;
+  max-width: 132px;
+}
+.job-search-form .row .col-lg-3 {
+  max-width: 189px;
+}
+.navbar-expand-lg .navbar-nav {
+    gap: 10px;
+    align-items: center;
+}
+li.nav-item.nav-item-auth:before {
+    background-color: #9194b3;
+    bottom: 0;
+    content: "";
+    cursor: default;
+    height: 18px;
+    left: -4px;
+    margin: auto 0;
+    position: absolute;
+    top: 0;
+    width: 1px;
+}
+li.nav-item.nav-item-auth {
+    position: relative;
+}
+}

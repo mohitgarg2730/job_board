@@ -1,0 +1,38 @@
+<root>
+  <job>
+    <jobTitle>Software Developer</jobTitle>
+    <description>Responsible for developing and maintaining software applications.</description>
+    <jobCategory>IT</jobCategory>
+    <typeOfJob>Full-time</typeOfJob>
+    <workingLevel>Mid-level</workingLevel>
+    <experience>3-5 years</experience>
+    <qualification>Bachelor's degree in Computer Science</qualification>
+    <gender>Any</gender>
+    <minSalary>50000</minSalary>
+    <maxSalary>80000</maxSalary>
+    <jobExpirationDate>2024-12-31</jobExpirationDate>
+    <taskCompensation>Hourly</taskCompensation>
+    <skills>Java, Python, SQL, Problem-solving, Teamwork</skills>
+    <address>123 Main St, Suite 400</address>
+    <country>USA</country>
+    <state>California</state>
+  </job>
+    <job>
+    <jobTitle>Software Developer</jobTitle>
+    <description>Responsible for developing and maintaining software applications.</description>
+    <jobCategory>IT</jobCategory>
+    <typeOfJob>Full-time</typeOfJob>
+    <workingLevel>Mid-level</workingLevel>
+    <experience>3-5 years</experience>
+    <qualification>Bachelor's degree in Computer Science</qualification>
+    <gender>Any</gender>
+    <minSalary>50000</minSalary>
+    <maxSalary>80000</maxSalary>
+    <jobExpirationDate>2024-12-31</jobExpirationDate>
+    <taskCompensation>Hourly</taskCompensation>
+    <skills>Java, Python, SQL, Problem-solving, Teamwork</skills>
+    <address>123 Main St, Suite 400</address>
+    <country>USA</country>
+    <state>California</state>
+  </job>
+</root>
